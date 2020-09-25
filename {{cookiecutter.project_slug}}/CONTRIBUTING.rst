@@ -29,6 +29,8 @@ Fix Bugs
 Look through the GitHub issues for bugs. Anything tagged with "bug" and "help
 wanted" is open to whoever wants to implement it.
 
+No bugs allowed
+
 Implement Features
 ~~~~~~~~~~~~~~~~~~
 
